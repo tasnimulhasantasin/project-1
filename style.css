@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#navbar{
+    background-color: #0f1111;
+    color: white;
+    height: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-left  : 100px;
+}
+
+#logo {
+    margin-left:2px ;
+    margin-top: 3px;
+    font-size: 25px;
+    color: #f08804;
+    padding-top: 5px;
+}
+
+input {
+    margin-left:200px;
+}
+
+button {
+    background-color: #f08804;
+    color: white;
+}
+.content-1{
+    width: 40%;
+    font-size: 25px;
+}
+.tasin{
+  color: purple;
+  font-size: 40px;
+
+}
+body{
+    background-image: url(1111.jpg);
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size:cover ;
+
+}
+.content-1{
+    color:#d30391;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
